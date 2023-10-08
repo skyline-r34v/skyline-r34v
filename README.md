@@ -1,5 +1,3 @@
-<img width = "100%" src = "./assets/cover.png" >
-
 <h1 align="center">Hi , I'm Vighnesh Mishra 👋</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
