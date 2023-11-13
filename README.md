@@ -19,12 +19,10 @@ Hello ! I'm Vighnesh Mishra , Second Year IT Student , Backend Developer just lo
 
 ## Connect with Me 
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.github.com/skyline-r34v" target="blank" rel="noreferrer"><img align = "center" alt="Github" width="35px" src="./assets/github-sign.png" height="30" width="40"></a> 
-<a href="https://www.instagram.com/vighnesh_m95" target="blank" rel="noreferrer"><img align = "center" alt="Instagram" width="35px" src="./assets/instagram.png" height="30" width="40"></a>
+<a href="https://www.github.com/skyline-r34v" target="blank" rel="noreferrer">Github</a> 
+<a href="https://www.instagram.com/vighnesh_m95" target="blank" rel="noreferrer">Instagram</a>
 </p>
 
 ## Languages and Tools:
