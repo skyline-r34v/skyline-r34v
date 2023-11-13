@@ -23,6 +23,8 @@ Hello ! I'm Vighnesh Mishra , Second Year IT Student , Backend Developer just lo
 
 <a href="https://www.github.com/skyline-r34v" target="blank" rel="noreferrer">Github</a> 
 <a href="https://www.instagram.com/vighnesh_m95" target="blank" rel="noreferrer">Instagram</a>
+<a href="https://twitter.com/Vighnesh_m95" target="blank" rel="noreferrer">Twitter</a>
+<a href="https://www.linkedin.com/in/vighnesh-mishra-361b89257/" target="blank" rel="noreferrer">Linkedin</a>
 </p>
 
 ## Languages and Tools:
