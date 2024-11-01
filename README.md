@@ -10,7 +10,7 @@
 Hello ! I'm Vighnesh Mishra , Second Year IT Student , Backend Developer just loves creating api's and contribute to Open Source
 
 - 🧑‍💻 L4 Engineering in TCET Open Source
-- Associate in SORT Club
+- 🦁President in SORT Club
 - 🔭 I’m currently working on **ERP TCET**
 - 🌱 I’m currently learning **NodeJS and ExpressJS**
 - 💬 Ask me about **Web , Database, Blockchain & AI**
